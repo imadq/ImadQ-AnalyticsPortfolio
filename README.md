@@ -7,3 +7,4 @@ Throughout my studies, I sharpened my skills in handling intricate data sets and
 In my spare time, I enjoy exploring new data analysis tools and methods, always eager to expand my knowledge and abilities. Whether collaborating with a team or working solo, I'm motivated by the excitement of uncovering insights and using data to tackle challenging problems.
 
 # Resume
+https://github.com/imadq/ImadQ-AnalyticsPortfolio/blob/main/Resume.pdf
